@@ -32,7 +32,7 @@ If you are using MNet, go to the Course Participants then click `Select All -> W
 
 Name this download `roster.csv`.
 
-## 1. Setting up the script
+## 2. Setting up the script
 
 Clone this repository or copy the python script `moodle_to_codepost_manual.py` to your local machine in the same folder as `submissions` and `roster.csv`.
 
